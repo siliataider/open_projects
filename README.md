@@ -13,6 +13,6 @@ This portfolio is designed to help students, researchers, and developers discove
 
 ## 🌐 Explore the Portfolio
 
-👉 Visit the ROOT Open Projects page: [**ROOT Open Projects Website**](...)
+👉 Visit the ROOT Open Projects page: [**ROOT Open Projects Website**](https://root-project.github.io/open_projects/)
 
 ---
