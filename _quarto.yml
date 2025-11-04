@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: '<img src="assets/images/root_logo.png" alt="ROOT Logo" style="height:35px; vertical-align:middle;">'
+  description: "Opportunities for collaboration and contributions with the ROOT Core Team"
+  repo-url: https://github.com/root-project/open_projects
+  navbar:
+    brand:
+      image: assets/images/root_logo.png
+      text: ROOT Open Projects
+      href: index.qmd
+    type: default
+    right:
+      - text: Home
+        href: index.qmd
+      - text: Projects
+        href: index.qmd#projects
+      - text: Contact
+        href: index.qmd#contact
+      - icon: github
+        href: https://github.com/root-project/root
+      - icon: envelope
+        href: mailto:Danilo.Piparo@cern.ch
+
+format:
+  html:
+    theme: kournal
+    css: css/style.css
+    toc: false
+    smooth-scroll: true
+    embed-resources: true
+
+  
